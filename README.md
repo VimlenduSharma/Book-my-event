@@ -6,8 +6,8 @@ Mini-Calendly full-stack demo
 
 | Live Demo | Repo |
 |-----------|------|
-| **FE** https://bookmyevent.vercel.app | https://github.com/<you>/book-my-event |
-| **API** https://api.bookmyevent.xyz/docs | —
+| **FE** https://book-my-event-frp6jhrw0-vimlendu-sharmas-projects.vercel.app | https://github.com/VimlenduSharma/Book-my-event |
+| **API** http://localhost:8080 | —
 
 ---
 
